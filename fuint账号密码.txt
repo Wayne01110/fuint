@@ -1,0 +1,18 @@
+SVN:
+svn://119.3.238.219/fuint
+用户：liuzicheng
+密码：XuYang888
+
+服务器：
+IP ：42.97.45.75
+端口：5322
+用户：fuintbackend
+密码：LiYuan^8864
+
+服务器数据库：
+端口：5506
+用户：fuint
+密码：LiYuan^8864
+
+收银前端：https://fuint.xuyanggroup.com/
+后台前端：https://fuint.xuyanggroup.com/fuintadmin/
